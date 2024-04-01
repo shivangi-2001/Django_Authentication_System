@@ -1,6 +1,6 @@
 # DJOSER DJANGO AUTHENTICATION
 
-## JWT Token Authentication system Geneator 
+## JWT Token Authentication system generator 
 
 These Repoistory include the customize model for creating the superuser and user with sending mail to there gmail account.
 
